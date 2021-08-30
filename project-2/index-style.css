@@ -1,0 +1,209 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+
+.btn{
+	position: absolute;
+	left:90%;
+	top: 1%;
+	transform: translate(-60%);
+	color:white;
+	border:2px solid yellow;
+}
+.navbar{
+	position: relative;
+	background-image: url(img/hero.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 600px;
+
+
+}
+.navbar-nav.navbar-center{
+	position: absolute;
+	left: 55%;
+	transform: translate(-55%);
+	padding:5px;
+	font-size: 20px;
+}
+.navbar-brand{
+	margin-left: 5rem;
+	font-size: 2rem;
+	position: absolute;
+}
+#dot{
+color:#ffff00;
+font-size: 2rem;
+
+}
+
+
+.col-lg-2{
+	border:1px solid white;
+	padding: 4px;
+	width: 8rem;
+	margin-left: 10px;
+	height: 8rem;
+	transform: translate(60%);
+
+}
+.fab{
+	color: #ff9900;
+	font-size: 40px;
+}
+.fas{
+	color:#ff9900;
+	font-size: 40px;
+}
+h4{
+	margin-top: 3rem;
+}
+.quote
+	 {
+    font-family: muli-semibold-italic;
+    font-weight: 600;
+    font-style: italic;
+    letter-spacing: .05em;
+color: #1517c5;
+   
+    
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+.citation{
+	color:#818181;
+	padding: 40px;
+
+}
+.wrapper{
+	width: 400px;
+	margin:0 auto;
+}
+.wrapper h2{
+	font-family: baloo;
+	text-align: center;
+	text-transform: uppercase;
+}
+.item{
+	width: 160px;
+	padding:40px;
+
+}
+.col-lg-3{
+	width: 50px;
+	border:2px solid grey;
+	margin: 40px;
+	padding: 10px;
+
+
+}
+hr{
+	width: 50px;
+	margin-left: 30px;
+	background-color: red;
+}
+#texter{
+	margin-left: 30px;
+
+}
+.col-lg-12{
+	position: relative;
+	background-repeat: no-repeat;
+	background-image: url("img/city.jpg");
+	width: 100%;
+	height: 200px;
+}
+button{
+	border:2px solid white;
+	padding: 5px;
+	color:white;
+	background-color:black;
+
+
+}
+#images{
+margin:10px;
+}
+.texter1{
+	margin-left: 30px;
+}
+.texter2{
+	margin-left: -7.2rem;
+}
+.far{
+	font-size: 40px;
+	color:#ff9900;
+}
+#testimonials{
+	width: 5%;
+	height: 5%;
+	border-radius: 50%;
+}
+.col{
+	border:1px solid #f2f2f2;
+	padding: 0px;
+	margin: 10px;
+}
+#ceo{
+	text-align: center;
+}
+#exampleInputEmail1{
+	padding:10px; 
+	margin: 20px;
+}
+#exampleInputEmail{
+	padding:35px; 
+	margin: 20px;
+}
+
+#address{
+	padding:10px;
+}
+#buton{
+	color:white;
+	border-radius: 5px;
+	background-color: #ff9900;
+	margin-left: 20rem;
+}
+.list{
+	list-style: none;
+	border:0;
+	color:white;
+}
+#footer{
+	border:0;
+}
+#Email1{
+	width: 10rem;
+}
+#Subcribe{
+	color:white;
+	border-radius: 5px;
+	background-color: #ff9900;
+	padding:5px;
+	margin-top: 5px;
+	margin-left: 1rem;
+	border-color: #ff9900 ;
+	width: 7rem;
+
+	
+}
+.anker{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
